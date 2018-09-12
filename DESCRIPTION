@@ -16,3 +16,5 @@ LazyData: true
 project: linkrepotest
 Project: linkrepotest
 title: 🔗🔗 A curated collection of links about linkrepotest
+URL: https://github.com/mkearney/linkrepotest
+BugReports: https://github.com/mkearney/linkrepotest/issues
